@@ -1,0 +1,7 @@
+
+@media (max-width:767px){
+  /*Tablet & Phone Rules*/
+  section{
+    width: 80% !important;
+  }
+}
